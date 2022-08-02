@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(30, 130, 224);
+    
+    }
+    
+    .negro{
+    background-color: rgb(228, 22, 22);
+    height: 400px;
+    margin: 25px;
+    width: 400px;
+    
+    }
+    .violeta{
+    background-color: rgb(71, 5, 97);
+    height: 350px;
+    margin: 25px;
+    width: 350px;
+    }
+    .gris{
+    background-color: rgb(255, 238, 1);
+    height: 300px;
+    margin: 25px;
+    width: 300px;
+    }
+    .verde-agua{
+    background-color: rgb(139, 250, 157);
+    height: 250px;
+    margin: 25px;
+    width: 250px;
+    }
+    .celeste{
+    background-color: rgb(8, 25, 255);
+    height: 200px;
+    margin: 25px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
